@@ -1,0 +1,32 @@
+var dapAn = [
+    "Ba phải",                              // 0
+    "Bảng điểm",                            // 1
+    "Cửa hiệu",                             // 2
+    "Bom ba càng",                          // 3
+    "Áo cổ lọ",                             // 4
+    "Cá biệt",                              // 5
+    "phi kim",                              // 6
+    "Bát ô tô",                             // 7
+    "Bi đông",                              // 8
+    "Cao răng",                             // 9
+    "Bình giữ nhiệt",                       // 10
+    "Chim sâu",                             // 11
+    "Cuống quýt",                           // 12
+    "Khế văn",                              // 13
+    "Phố hàng chiếu",                       // 14
+    "Eo biển",                              // 15
+    "Giáo điều",                            // 16
+    "Kì thú",                               // 17
+    "Thạch cao",                            // 18
+    "Mực một nắng",                         // 19
+    "Ma tốc độ",                            // 20
+    "Nhật thực",                            // 21
+    "Sổ gạo",                               // 22
+    "Nhà tranh",                            // 23
+    "Trường bán công",                      // 24
+    "Phim kiếm hiệp",                       // 25
+    "Phố giáp bát",                         // 26
+    "Cáo lỗi",                               // 27
+    "Thất thần",                            // 28
+    "Thị tứ"                                // 29
+];
